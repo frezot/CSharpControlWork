@@ -6,10 +6,5 @@
         {
             //nothing
         }
-
-        public string ShowName()
-        {
-            return Name;
-        }
     }
 }

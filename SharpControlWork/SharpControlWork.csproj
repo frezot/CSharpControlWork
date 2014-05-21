@@ -49,7 +49,7 @@
     <Compile Include="Apple.cs" />
     <Compile Include="Button.cs" />
     <Compile Include="Contact.cs" />
-    <Compile Include="Excercise2.cs" />
+    <Compile Include="Exercise2.cs" />
     <Compile Include="Fruit.cs" />
     <Compile Include="Man.cs" />
     <Compile Include="Program.cs" />

@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SharpControlWork
+﻿namespace SharpControlWork
 {
     class Fruit
     {
-        protected string Name { get; set; }
+        public string Name { get; protected set; }
         public Fruit(string name)
         {
             Name = name;

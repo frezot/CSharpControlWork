@@ -10,7 +10,7 @@ namespace SharpControlWork
         {
             #region Exercise1 inheritance
 
-            Console.WriteLine(new Apple().ShowName());
+            Console.WriteLine(new Apple().Name);
 
             #endregion
 
@@ -107,8 +107,7 @@ namespace SharpControlWork
 
             #endregion
 
-
-
+            
             Console.ReadKey();
         }
 
